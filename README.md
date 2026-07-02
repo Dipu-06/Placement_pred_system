@@ -31,29 +31,7 @@ The project demonstrates the complete deep learning workflow, including data pre
 * Jupyter Notebook
 
 ---
-
-## 📂 Project Structure
-
-```
-Student-Placement-Prediction/
-│
-├── data/
-│   └── placement.csv
-│
-├── notebooks/
-│   └── Student_Placement_Prediction.ipynb
-│
-├── models/
-│   └── ann_model.keras
-│
-├── requirements.txt
-├── README.md
-└── LICENSE
-```
-
----
-
-## ⚙️ Workflow
+Workflow
 
 1. Load the dataset
 2. Perform data preprocessing
